@@ -1,6 +1,6 @@
 ---
 title: "practicle machine learning assinment"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ------------------------
